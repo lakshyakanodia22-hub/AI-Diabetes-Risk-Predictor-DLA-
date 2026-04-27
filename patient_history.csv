@@ -1,0 +1,8 @@
+Patient Name,Pregnancies,Glucose,Blood Pressure,Skin Thickness,Insulin,BMI,Diabetes Pedigree Function,Age,Prediction Result,Risk Level,Probability,Doctor Advice
+Unknown,1,120,70,20,80,25.0,0.5,25,Low Risk of Diabetes,Low,2.0,
+Unknown,1,120,70,20,80,25.0,0.5,25,Low Risk of Diabetes,Low,2.0,
+Unknown,1,120,70,20,80,25.0,0.5,25,Low Risk of Diabetes,Low,2.0,
+Unknown,1,120,70,20,80,25.0,0.5,25,Low Risk of Diabetes,Low,2.0,"Current risk is low, but regular health checkups are still recommended."
+Unknown,1,120,70,20,80,25.0,0.5,25,Low Risk of Diabetes,Low,2.0,"Current risk is low, but regular health checkups are still recommended."
+Unknown,1,120,70,20,80,25.0,0.5,25,Low Risk of Diabetes,Low,2.0,"Current risk is low, but regular health checkups are still recommended."
+Lakshya ,0,120,70,20,80,25.0,0.5,25,Low Risk of Diabetes,Low,3.0,"Current risk is low, but regular health checkups are still recommended."
